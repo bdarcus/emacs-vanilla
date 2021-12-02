@@ -1,0 +1,17 @@
+
+* README
+
+** Introduction
+
+For the past few years I've used Doom, but wanted to try a stripped down vanilla alternative built on a few core packages:
+
+  - meow :: cool model editing package with a simple leader-key menu (rather than evil and which-key)
+  - consult :: many of these commands populate the above leader-key menu
+
+And of course, I also include:
+
+  - vertico, marginalia, embark :: completion, annotation and contextual actions respectively
+  - corfu :: at point completion
+  - citar :: my citation package; this also helps me test configuration instructions
+
+
